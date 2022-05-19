@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ovand\\.nuget\\packages\\": {}
+    "/Users/ovandos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ovand\\source\\repos\\SoportesProyecto\\SoportesProyecto\\SoportesProyecto.csproj",
+      "projectUniqueName": "/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/SoportesProyecto.csproj",
       "projectName": "SoportesProyecto",
-      "projectPath": "C:\\Users\\ovand\\source\\repos\\SoportesProyecto\\SoportesProyecto\\SoportesProyecto.csproj",
-      "packagesPath": "C:\\Users\\ovand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ovand\\source\\repos\\SoportesProyecto\\SoportesProyecto\\obj\\",
+      "projectPath": "/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/SoportesProyecto.csproj",
+      "packagesPath": "/Users/ovandos/.nuget/packages/",
+      "outputPath": "/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ovand\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ovandos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }
