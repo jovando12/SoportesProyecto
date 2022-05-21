@@ -2,6 +2,7 @@
 using SoportesProyecto.Models;
 using System.Diagnostics;
 
+
 namespace SoportesProyecto.Controllers
 {
     public class HomeController : Controller
@@ -24,6 +25,11 @@ namespace SoportesProyecto.Controllers
         }
 
         public IActionResult FormRequerimiento()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult FormRequerimiento(FormRequerimiento formRequerimiento)
         {
             return View();
         }
