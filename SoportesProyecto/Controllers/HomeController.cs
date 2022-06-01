@@ -1,18 +1,20 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SoportesProyecto.Models;
 using System.Diagnostics;
-
+using SoportesProyecto.Services;
 
 namespace SoportesProyecto.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IRepositorioSoportes repositorioSoportes;
+        
+        public HomeController(IRepositorioSoportes repositorioSoportes)
         {
-            _logger = logger;
+            this.repositorioSoportes = repositorioSoportes;
         }
+       
 
         public IActionResult Index()
         {
@@ -29,8 +31,9 @@ namespace SoportesProyecto.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult FormRequerimiento(FormRequerimiento formRequerimiento)
+        public IActionResult FormRequerimiento(RequerimientoSoporte requerimientoSoporte)
         {
+            repositorioSoportes.RegistrarSoporte(requerimientoSoporte);
             return View();
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
