@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{B6D0EC8F-A951-4E95-BF52-A2E389F2F7EF}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SoportesProyecto/Views/Home/FormRequerimiento.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoportesProyecto/appsettings.Development.json">
     <Files>
-      <File FileName="SoportesProyecto/Controllers/HomeController.cs" Line="34" Column="10" />
-      <File FileName="SoportesProyecto/Views/Home/FormRequerimiento.cshtml" Line="528" Column="78" />
-      <File FileName="SoportesProyecto/Models/FormRequerimiento.cs" Line="12" Column="15" />
+      <File FileName="SoportesProyecto/Controllers/HomeController.cs" Line="36" Column="38" />
+      <File FileName="SoportesProyecto/Services/RepositorioSoportes.cs" Line="32" Column="8" />
+      <File FileName="SoportesProyecto/Models/RequerimientoSoporte.cs" Line="6" Column="3" />
+      <File FileName="SoportesProyecto/Views/Home/FormRequerimiento.cshtml" Line="528" Column="50" />
+      <File FileName="SoportesProyecto/Program.cs" Line="7" Column="1" />
+      <File FileName="SoportesProyecto/appsettings.Development.json" Line="4" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +16,12 @@
             <Node name="SoportesProyecto" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -28,11 +31,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/Controllers/HomeController.cs" relfile="SoportesProyecto/Controllers/HomeController.cs" line="34" column="13" />
+      <Breakpoint file="/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/Controllers/HomeController.cs" relfile="SoportesProyecto/Controllers/HomeController.cs" line="36" column="1" />
+      <Breakpoint file="/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/Services/RepositorioSoportes.cs" relfile="SoportesProyecto/Services/RepositorioSoportes.cs" line="28" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SoportesProyecto PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
