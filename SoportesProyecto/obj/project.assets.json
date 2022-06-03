@@ -2342,24 +2342,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/ovandos/.nuget/packages/": {}
+    "C:\\Users\\JohnOvando.AzureAD\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/SoportesProyecto.csproj",
+      "projectUniqueName": "C:\\Users\\JohnOvando.AzureAD\\Documents\\Repos\\ITLA Soportes\\SoportesProyecto\\SoportesProyecto.csproj",
       "projectName": "SoportesProyecto",
-      "projectPath": "/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/SoportesProyecto.csproj",
-      "packagesPath": "/Users/ovandos/.nuget/packages/",
-      "outputPath": "/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/",
+      "projectPath": "C:\\Users\\JohnOvando.AzureAD\\Documents\\Repos\\ITLA Soportes\\SoportesProyecto\\SoportesProyecto.csproj",
+      "packagesPath": "C:\\Users\\JohnOvando.AzureAD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JohnOvando.AzureAD\\Documents\\Repos\\ITLA Soportes\\SoportesProyecto\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/ovandos/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\JohnOvando.AzureAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2405,7 +2412,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

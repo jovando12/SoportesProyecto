@@ -25,7 +25,7 @@ namespace SoportesProyecto.Controllers
         {
             return View();
         }
-
+        [HttpGet]
         public IActionResult FormRequerimiento()
         {
             return View();
