@@ -28,10 +28,16 @@ namespace SoportesProyecto.Services
         {
 			using (var conexion = new SqlConnection(connectionString))
             {
-				conexion.Query($@"insert into RegistrarSoporte" +
-					"(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar)"+
-					"values" +
-					"(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar )", requerimientoSoporte);
+                //conexion.Execute($@"insert into RegistrarSoporte" +
+                //    "(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar)" +
+                //    "values" +
+                //    "(@nombre_usuario, @tipo_requerimiento, @solicitante, @, 'COMENTARIO' )");
+
+                conexion.Execute($@"insert into RegistrarSoporte" +
+                    "(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar)" +
+                    "values" +
+                    "(@nombre_usuario, @tipo_requerimiento, @solicitante, @area_departamento, @comentar )", requerimientoSoporte);
+
             }
         }
 

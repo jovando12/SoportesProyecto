@@ -25,7 +25,7 @@ namespace SoportesProyecto.Controllers
         {
             return View();
         }
-        [HttpGet]
+        
         public IActionResult FormRequerimiento()
         {
             return View();
@@ -34,7 +34,7 @@ namespace SoportesProyecto.Controllers
         public IActionResult FormRequerimiento(RequerimientoSoporte requerimientoSoporte)
         {
             repositorioSoportes.RegistrarSoporte(requerimientoSoporte);
-            return View();
+            return RedirectToAction("Index","Home");
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
