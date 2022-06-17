@@ -33,8 +33,16 @@ namespace SoportesProyecto.Controllers
         [HttpPost]
         public IActionResult FormRequerimiento(RequerimientoSoporte requerimientoSoporte)
         {
-            repositorioSoportes.RegistrarSoporte(requerimientoSoporte);
-            return RedirectToAction("Index","Home");
+            if (ModelState.IsValid)
+            {
+                repositorioSoportes.RegistrarSoporte(requerimientoSoporte);
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                return View();
+            }
+            
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

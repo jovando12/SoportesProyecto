@@ -24,19 +24,23 @@ namespace SoportesProyecto.Services
 			connectionString = configuration.GetConnectionString("DefaultConnection");
 		}
 
-		public void RegistrarSoporte(RequerimientoSoporte requerimientoSoporte)
+		public async void RegistrarSoporte(RequerimientoSoporte requerimientoSoporte)
         {
 			using (var conexion = new SqlConnection(connectionString))
             {
-                //conexion.Execute($@"insert into RegistrarSoporte" +
-                //    "(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar)" +
-                //    "values" +
-                //    "(@nombre_usuario, @tipo_requerimiento, @solicitante, @, 'COMENTARIO' )");
-
-                conexion.Execute($@"insert into RegistrarSoporte" +
-                    "(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar)" +
-                    "values" +
-                    "(@nombre_usuario, @tipo_requerimiento, @solicitante, @area_departamento, @comentar )", requerimientoSoporte);
+                try
+                {
+                   await conexion.ExecuteAsync($@"insert into RegistrarSoporte" +
+                   "(nombre_usuario, tipo_requerimiento, solicitante, area_departamento, comentar)" +
+                   "values" +
+                   "(@nombre_usuario, @tipo_requerimiento, @solicitante, @area_departamento, @comentar )", requerimientoSoporte);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                    Console.WriteLine("Test");
+                }
+               
 
             }
         }
