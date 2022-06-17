@@ -1,0 +1,142 @@
+﻿@model SoportesProyecto.Models.RequerimientoSoporte;
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body class="animsition">
+    
+        
+            <!-- MAIN CONTENT-->
+            <div class="main-content">
+                <div class="section__content section__content--p30">
+                    <div class="container-fluid">
+                        <div class="row">
+                            
+                            <div class="col-lg-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <strong>Enviar Requerimiento</strong>
+                                    </div>
+                                    <div class="card-body card-block">
+                                        <div asp-validation-summary="All" class="text-danger"></div>
+                                        <form asp-action="FormRequerimiento" asp-controller="Home" enctype="multipart/form-data" class="form-horizontal">
+                                            <div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label class=" form-control-label">Static</label>
+                                                </div>
+                                                <div class="col-12 col-md-9">
+                                                    @*<p class="form-control-static">Username</p>*@
+                                                    <input type="text" id="text-input" asp-for="nombre_usuario" class="form-control-static" value="UsuarioPrueba">
+                                                </div>
+                                            </div>
+                                            <div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label for="select" class=" form-control-label">Tipo Requerimiento</label>
+                                                </div>
+                                                <div class="col-12 col-md-9">
+                                                    <select asp-for="tipo_requerimiento" id="select" class="form-control">
+                                                        <option value="0">Seleccione el tipo de requerimiento</option>
+                                                        <option value="1">Desbloquear Usuario</option>
+                                                        <option value="2">Instalar Impresora</option>
+                                                        <option value="3">Habilitar carpeta en Red</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label for="text-input" class=" form-control-label">Solicitante</label>
+                                                </div>
+                                                <div class="col-12 col-md-9">
+                                                    <input type="text" id="text-input" asp-for="solicitante" class="form-control" >
+                                                    <small class="help-block form-text">Nombre Solicitante</small>
+                                                </div>
+                                            </div>
+                                            <div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label for="text-input" class=" form-control-label">Area Departamento</label>
+                                                </div>
+                                                <div class="col-12 col-md-9">
+                                                    <input type="text" id="text-input" asp-for="area_departamento" class="form-control">
+                                                    <small class="help-block form-text">Departamento al que pertenece</small>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label for="textarea-input" class=" form-control-label">Comentario</label>
+                                                </div>
+                                                <div class="col-12 col-md-9">
+                                                    <textarea asp-for="comentar" id="textarea-input" rows="9" placeholder="Observaciones..." class="form-control"></textarea>
+                                                </div>
+                                            </div>
+
+                                           @*Checkbox Opcion*@
+                                            @*<div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label class=" form-control-label">Checkboxes</label>
+                                                </div>
+                                            
+                                                <div class="col col-md-9">
+                                                    <div class="form-check">
+                                                        <div class="checkbox">
+                                                            <label for="checkbox1" class="form-check-label ">
+                                                                <input type="checkbox" id="checkbox1" asp-for="opcion1" value="option1" class="form-check-input">Option 1
+                                                            </label>
+                                                        </div>
+                                                        <div class="checkbox">
+                                                            <label for="checkbox2" class="form-check-label ">
+                                                                <input type="checkbox" id="checkbox2" asp-for="opcion2" value="option2" class="form-check-input"> Option 2
+                                                            </label>
+                                                        </div>
+                                                        <div class="checkbox">
+                                                            <label for="checkbox3" class="form-check-label ">
+                                                                <input type="checkbox" id="checkbox3" asp-for="opcion3" value="option3" class="form-check-input"> Option 3
+                                                            </label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>*@
+                                           
+                                            <div class="row form-group">
+                                                <div class="col col-md-3">
+                                                    <label for="file-multiple-input" class=" form-control-label">Adjuntar Archivos</label>
+                                                </div>
+                                                <div class="col-12 col-md-9">
+                                                    <input type="file" id="file-multiple-input" name="file-multiple-input" multiple="" class="form-control-file">
+                                                </div>
+                                            </div>
+                                            <div class="card-footer">
+                                                <button type="submit" class="btn btn-primary btn-sm">
+                                                    <i class="fa fa-dot-circle-o"></i> Submit
+                                                </button>
+                                                <button type="reset" class="btn btn-danger btn-sm">
+                                                    <i class="fa fa-ban"></i> Reset
+                                                </button>
+                                            </div>
+                                         </form>
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                           
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="copyright">
+                                    <p>Copyright © 2018 Colorlib. All rights reserved. Template by <a href="https://colorlib.com">Colorlib</a>.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       
+
+
+</body>
+
+</html>
+<!-- end document-->

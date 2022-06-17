@@ -1,0 +1,118 @@
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/appsettings.Development.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/appsettings.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/SoportesProyecto.staticwebassets.runtime.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/SoportesProyecto
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/SoportesProyecto.deps.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/SoportesProyecto.runtimeconfig.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/SoportesProyecto.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/SoportesProyecto.pdb
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.csproj.AssemblyReference.cache
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.AssemblyInfoInputs.cache
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.AssemblyInfo.cs
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.csproj.CoreCompileInputs.cache
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.MvcApplicationPartsAssemblyInfo.cache
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.RazorAssemblyInfo.cache
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.RazorAssemblyInfo.cs
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/scopedcss/bundle/SoportesProyecto.styles.css
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/scopedcss/projectbundle/SoportesProyecto.bundle.scp.css
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/refint/SoportesProyecto.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.pdb
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.genruntimeconfig.cache
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/ref/SoportesProyecto.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Azure.Core.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Azure.Identity.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Dapper.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ovandos/Documents/GitHub/Repos/SoportesProyecto/SoportesProyecto/obj/Debug/net6.0/SoportesProyecto.csproj.CopyComplete
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\SoportesProyecto.staticwebassets.runtime.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\SoportesProyecto.exe
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\SoportesProyecto.deps.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\SoportesProyecto.runtimeconfig.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\SoportesProyecto.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\SoportesProyecto.pdb
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Dapper.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.csproj.AssemblyReference.cache
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.AssemblyInfoInputs.cache
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.AssemblyInfo.cs
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.RazorAssemblyInfo.cache
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.RazorAssemblyInfo.cs
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\scopedcss\bundle\SoportesProyecto.styles.css
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\scopedcss\projectbundle\SoportesProyecto.bundle.scp.css
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.csproj.CopyComplete
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\refint\SoportesProyecto.dll
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.pdb
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\SoportesProyecto.genruntimeconfig.cache
+C:\Users\JohnOvando.AzureAD\Documents\Repos\ITLA Soportes\SoportesProyecto\obj\Debug\net6.0\ref\SoportesProyecto.dll
