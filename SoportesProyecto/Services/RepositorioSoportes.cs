@@ -2,14 +2,15 @@
 using SoportesProyecto.Models;
 using Dapper;
 using Microsoft.Data.SqlClient;
+using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 
 namespace SoportesProyecto.Services
 {
 	public interface IRepositorioSoportes
     {
-		void RegistrarSoporte(RequerimientoSoporte requerimientoSoporte);
-
+		Task RegistrarSoporte(RequerimientoSoporte requerimientoSoporte);
+        Task <IEnumerable<RequerimientoSoporte>> GetSupport();
 
     }
 
@@ -24,7 +25,7 @@ namespace SoportesProyecto.Services
 			connectionString = configuration.GetConnectionString("DefaultConnection");
 		}
 
-		public async void RegistrarSoporte(RequerimientoSoporte requerimientoSoporte)
+		public async Task RegistrarSoporte(RequerimientoSoporte requerimientoSoporte)
         {
 			using (var conexion = new SqlConnection(connectionString))
             {
@@ -44,6 +45,13 @@ namespace SoportesProyecto.Services
 
             }
         }
+        public async Task<IEnumerable<RequerimientoSoporte>> GetSupport()
+        {
+            using var conexion = new SqlConnection(connectionString);
+            return await conexion.QueryAsync<RequerimientoSoporte>(@"Select * from RegistrarSoporte");
+        }
+
+     
 
 	}
 }

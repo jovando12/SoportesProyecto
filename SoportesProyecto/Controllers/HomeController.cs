@@ -16,9 +16,10 @@ namespace SoportesProyecto.Controllers
         }
        
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var support = await repositorioSoportes.GetSupport();
+            return View(support);
         }
 
         public IActionResult Privacy()
@@ -31,11 +32,11 @@ namespace SoportesProyecto.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult FormRequerimiento(RequerimientoSoporte requerimientoSoporte)
+        public async Task<IActionResult> FormRequerimiento(RequerimientoSoporte requerimientoSoporte)
         {
             if (ModelState.IsValid)
             {
-                repositorioSoportes.RegistrarSoporte(requerimientoSoporte);
+                await repositorioSoportes.RegistrarSoporte(requerimientoSoporte);
                 return RedirectToAction("Index", "Home");
             }
             else
