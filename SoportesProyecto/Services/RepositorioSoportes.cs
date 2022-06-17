@@ -48,7 +48,7 @@ namespace SoportesProyecto.Services
         public async Task<IEnumerable<RequerimientoSoporte>> GetSupport()
         {
             using var conexion = new SqlConnection(connectionString);
-            return await conexion.QueryAsync<RequerimientoSoporte>(@"Select * from RegistrarSoporte");
+            return await conexion.QueryAsync<RequerimientoSoporte>(@"Select * from RegistrarSoporte order by ID DESC");
         }
 
      

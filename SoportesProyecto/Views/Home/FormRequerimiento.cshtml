@@ -26,7 +26,8 @@
                                                     <label class=" form-control-label">Static</label>
                                                 </div>
                                                 <div class="col-12 col-md-9">
-                                                    <p class="form-control-static">Username</p>
+                                                    @*<p class="form-control-static">Username</p>*@
+                                                    <input type="text" id="text-input" asp-for="nombre_usuario" class="form-control-static" value="UsuarioPrueba">
                                                 </div>
                                             </div>
                                             <div class="row form-group">
@@ -35,7 +36,7 @@
                                                 </div>
                                                 <div class="col-12 col-md-9">
                                                     <select asp-for="tipo_requerimiento" id="select" class="form-control">
-                                                        <option value="0">Seleccione el tipo de requerimineto</option>
+                                                        <option value="0">Seleccione el tipo de requerimiento</option>
                                                         <option value="1">Desbloquear Usuario</option>
                                                         <option value="2">Instalar Impresora</option>
                                                         <option value="3">Habilitar carpeta en Red</option>
